@@ -33,7 +33,7 @@
   },
   "author": "Henry Skiba",
   "contributors": [
-    "Atul Kumar <henry.skiba@frgrisk.com>"
+    "Henry Skiba <henry.skiba@frgrisk.com>"
   ],
   "dependencies": {
     "@angular/animations": "~12.0.0",
